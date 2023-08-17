@@ -1,14 +1,9 @@
-# ALF Devoir 2 - Langage de Dessin
+# Domain-specific design language
 
 ## Description
 
-Le descriptif des devoirs est disponible sur le site de ALF [Devoir 2](https://ocw.cs.pub.ro/courses/alf/teme/tema2)
-
+Design programming language using TypeScript to streamline the design process, integrating SVG processing capabilities for data processing and visualization to enable the generation of design results.
 
 ## Solution
 
-TODO Décrivez ici comment avez-vous résolu les devoirs, quels types de données avez-vous utilisés et pourquoi. 
-
-### Structures de données 
-
-### Implémentation 
+### Implementation 
