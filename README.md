@@ -2,8 +2,5 @@
 
 ## Description
 
-Design programming language using TypeScript to streamline the design process, integrating SVG processing capabilities for data processing and visualization to enable the generation of design results.
+Develop a programming language using TypeScript to enhance the design workflow integrating  SVG processing functionalities for data manipulation and visualization, facilitating the creation of design outputs.
 
-## Solution
-
-### Implementation 
